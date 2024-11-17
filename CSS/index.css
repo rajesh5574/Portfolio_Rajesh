@@ -14,7 +14,7 @@ body{
     background-color: #8AA8A1;
 }
 .banner{
-       background-image:url('geo.jpg') ;
+       background-image:url(../Images/geo.jpg) ;
        background-size: cover;
        background-repeat: no-repeat;
        padding: 200px 0;
